@@ -29,7 +29,7 @@ video {
 }
 
 .visually-hidden {
-  position: absolute;
+  position: relative;
   inline-size: 1px;
   block-size: 1px;
   overflow: hidden;
